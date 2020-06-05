@@ -2,7 +2,6 @@
 # A directory storing important contact information for friends or family
 
 # Prototype Dictionary
-print("Family Directory:" + "\n")
 
 family_members = {
     'person_01': {
